@@ -8,12 +8,6 @@ test fork 333
 test remote multiple 2
 test multiple lagi
 test remote branch
-<<<<<<< HEAD
 test rebase 123
-=======
 test rebase
-<<<<<<< HEAD
->>>>>>> 2fbe535 (menambah test rebase)
-=======
 test rebase 2
->>>>>>> 7bd0b37 (menambah test rebase2)
