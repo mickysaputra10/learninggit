@@ -1,8 +1,8 @@
 this is all right
 
 new testing here
-test fork 111
-test fork 222
+test fork 111 test rebase
+test fork 222 test rebase
 test fork 333
 
 test remote multiple 2
