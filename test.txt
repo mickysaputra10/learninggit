@@ -6,3 +6,4 @@ test fork 2
 test fork 3
 
 test remote multiple 2
+test multiple lagi
