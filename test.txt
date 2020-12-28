@@ -5,4 +5,4 @@ test fork
 test fork 2
 test fork 3
 
-test remote multiple
+test remote multiple 2
